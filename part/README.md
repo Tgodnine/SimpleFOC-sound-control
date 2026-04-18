@@ -6,4 +6,4 @@
 6.AS5600  
 7.SimpleFOCMini (MS8313 or DRV8313)  
 8.Resistor 10K * 2 , 1K * 1  
-9.Diode  
+9.Diode 1N400X  
